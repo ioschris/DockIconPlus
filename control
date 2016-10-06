@@ -1,0 +1,10 @@
+Package: com.chfreeware.dockicon+
+Name: DockIcon+
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Add a fifth icon to your dock!
+Depiction: http://chrisharrisdev.com/repo/depictions/dockiconplus.html
+Maintainer: iOSChris <ioschrisharris@gmail.com>
+Author: iOSChris <ioschrisharris@gmail.com>
+Section: Tweaks
